@@ -5,14 +5,12 @@
     "Borg",
     "Cloud",
     "Container",
-    "Containerized",
     "DevOps",
     "DCOS",
     "Image",
     "Kubernetes",
     "Logging",
     "Networking",
-    "Norming",
     "Overlay",
     "Swarm",
     "Volume",
@@ -21,6 +19,7 @@
   "modifiers": {
     "before": [
       "Automated",
+      "Containerized",
       "Deterministic",
       "Distributed",
       "Flexible",
@@ -35,13 +34,11 @@
       "Secure"
     ],
     "after": [
-      "2",
       "2.0",
       "Alpha",
       "Beta",
       "Builder",
       "Light",
-      "Lint",
       "Lite",
       "Management",
       "Model",
