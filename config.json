@@ -12,10 +12,13 @@
     "Logging",
     "Microservice",
     "Networking",
+    "Fabric",
+    "Substrate",
     "Overlay",
     "Serverless",
     "Swarm",
     "Unikernel",
+    "Virtual",
     "Volume",
     "xPaaS"
   ],
@@ -53,7 +56,8 @@
     ],
     "suffixes": [
       ".io",
-      ".go"
+      ".go",
+      "driven"
     ]
   }
 }
