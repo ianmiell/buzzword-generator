@@ -6,9 +6,11 @@
     "Cloud",
     "Container",
     "DevOps",
+    "Docker",
     "DCOS",
     "Image",
     "Kubernetes",
+    "KV Store",
     "Logging",
     "Microservice",
     "Networking",
@@ -37,13 +39,15 @@
       "Opinionated",
       "Non-Opinionated",
       "Raft-based",
-      "Secure"
+      "Secure",
+      "Turnkey"
     ],
     "after": [
       "2.0",
       "Alpha",
       "Beta",
       "Builder",
+      "Enabler",
       "Light",
       "Lite",
       "Management",
@@ -57,7 +61,8 @@
     "suffixes": [
       ".io",
       ".go",
-      "driven"
+      "driven",
+      "agnostic"
     ]
   }
 }
